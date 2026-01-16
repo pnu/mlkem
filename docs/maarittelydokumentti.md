@@ -75,9 +75,17 @@ dokumentoitu ja tutkittu tieteellisissä julkaisuissa.
 
 ## Ratkaistava ongelma
 
-Tietoliikenteen ja tallennuksen turvallisen suojauksen varmistaminen
-myös tulevaisuudessa, jossa osa nykyisin käytössä olevista salakirjoitusmenetelmistä voidaan purkaa kriittisen paljon
+Tietoliikenteen ja tallennuksen turvallinen suojaus on varmistettava
+myös tulevaisuudessa jossa osa nykyisin käytössä olevista
+salakirjoitusmenetelmistä voidaan purkaa kriittisen paljon
 nopeammin kvanttietokoneen (ja -algoritmien) kehittyessä.
+
+Kvanttilaskenta muuttaa aika- ja tilavaatimusten merkitystä,
+kun arvioidaan mikä on lakennallisesti mahdollinen tai
+erityisen vaikea ongelma. ML-KEM perustuu sellaiseen laskennalliseen
+ongelmaan, jonka uskotaan olevan vaikea myös kvanttitietokoneiden
+mahdollistamilla algoritmeillä. Tämän ansiosta ML-KEM salauksen
+uskotaan pysyvän turvallisena myös kvanttitietokoneiden kehittyessä.
 
 Tällä hetkellä ongelma on teoreettinen, eikä ole tiedossa
 kuinka nopeasti tällainen laskenta tulisi käytännöllisesti ja
@@ -85,13 +93,6 @@ taloudellisesti mahdolliseksi. Hyvän tietoturvan periaatteen
 mukaisesti on kuitenkin oletettava, että jos jokin asia on
 edes teoriassa mahdollista, sen myös joku tulee käytännössä
 tekemään ennemmin tai myöhemmin.
-
-Kvanttilaskenta muuttaa aika- ja tilavaatimusten merkitystä,
-kun arvioidaan mikä on lakennallisesti mahdollinen tai
-erityisen vaikea ongelma.
-
-Uusista toteutuksista on hyödyllistä kerätä osaamista ja kokemuksia
-ennen pakottavan tilanteen syntymistä.
 
 ## Tavoitteena olevat aika- ja tilavaativuudet (esim. O-analyysit)
 
