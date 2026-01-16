@@ -13,6 +13,6 @@ TODO
 * [Toteutus](docs/toteutusdokumentti.md)
 * [Testaus](docs/testausdokumentti.md)
 
-# Viikoraportit
+## Viikoraportit
 
 * [Viikkoraportti 1](docs/viikkoraportti-1.md)
