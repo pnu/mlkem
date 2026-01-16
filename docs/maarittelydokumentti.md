@@ -72,3 +72,33 @@ käytetettävän jakauman osalta.
 Harjoitustyössä ei syvennytä tätä tarkemmin algoritmin matemaattisen
 perustaan tai sen ominaisuuksien todistamiseen, koska tämä on kattavasti
 dokumentoitu ja tutkittu tieteellisissä julkaisuissa. 
+
+## Ratkaistava ongelma
+
+Tietoliikenteen ja tallennuksen turvallisen suojauksen varmistaminen
+myös tulevaisuudessa, jossa osa nykyisin käytössä olevista salakirjoitusmenetelmistä voidaan purkaa kriittisen paljon
+nopeammin kvanttietokoneen (ja -algoritmien) kehittyessä.
+
+Tällä hetkellä ongelma on teoreettinen, eikä ole tiedossa
+kuinka nopeasti tällainen laskenta tulisi käytännöllisesti ja
+taloudellisesti mahdolliseksi. Hyvän tietoturvan periaatteen
+mukaisesti on kuitenkin oletettava, että jos jokin asia on
+edes teoriassa mahdollista, sen myös joku tulee käytännössä
+tekemään ennemmin tai myöhemmin.
+
+Kvanttilaskenta muuttaa aika- ja tilavaatimusten merkitystä,
+kun arvioidaan mikä on lakennallisesti mahdollinen tai
+erityisen vaikea ongelma.
+
+Uusista toteutuksista on hyödyllistä kerätä osaamista ja kokemuksia
+ennen pakottavan tilanteen syntymistä.
+
+## Tavoitteena olevat aika- ja tilavaativuudet (esim. O-analyysit)
+
+TBD, standadin mukaisesti. Huom. tarkoituksena on toteuttaa
+myös NTT-muunnos, koska se on osa standardia. Sen mahdollisesti
+vaikuttaa vaativuuksiin ja aion palata tähän vielä työn aikana.
+
+## Lähteet, joita aiot käyttää.
+
+* FIPS 203
